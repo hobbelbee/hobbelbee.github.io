@@ -4,9 +4,9 @@ description: 'just testing.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://hobbelbee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/banner.svg"
-logo-icon: "/assets/icon.jpg"
-logo-icon-SEO: "/assets/icon.jpg" # must be a non SVG file
+logo: "/assets/img/banner.svg"
+logo-icon: "/assets/img/icon.jpg"
+logo-icon-SEO: "/assets/img/icon.jpg" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -20,7 +20,7 @@ logo-icon-SEO: "/assets/icon.jpg" # must be a non SVG file
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/banner.svg"
+logo-dark: "/assets/img/banner.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
