@@ -5,7 +5,7 @@ show_date: true # show the date of the post
 title:  The Very First Post
 date:   2022-01-24 12:00:00 0000
 description: "A short hello!"
-img: # the path for the hero image, from the image folder (if the image is directly on the image folder, just the filename is needed)
+img: /assets/header.png
 tags: [admin]
 author: Lele
 ---
